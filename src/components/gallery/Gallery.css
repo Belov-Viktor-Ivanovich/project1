@@ -1,0 +1,18 @@
+.card{
+    width: 100px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+ }
+ 
+ img.avatar{
+    width: 100px;
+ }
+ 
+ .gender {
+    padding-left: 10px;
+    width: 20px;
+ }
